@@ -1,0 +1,15 @@
+body {
+	margin: 0px;
+}
+
+.cookie {
+	margin: 0 auto;
+}
+
+.CookieBtn {
+	width: 100px;
+	height: 100px;
+	background-color: brown;
+	text-align: center;
+	margin: 0 auto;
+}
